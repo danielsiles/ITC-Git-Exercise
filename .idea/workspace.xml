@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b036811a-bc76-4e3d-9e6b-6ec9c5394801" name="Default Changelist" comment="" />
+    <list default="true" id="b036811a-bc76-4e3d-9e6b-6ec9c5394801" name="Default Changelist" comment="Add .gitignore and README.md">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="957e68ea-c2f2-4d0b-b8c1-50a4c59abcc6" name="add word to file" comment="add word to file&#10;&#10;(cherry picked from commit 93a24f068029a40b6b1046f1a24ea2aaaecfd30e)">
       <changelist_data name="Daniel Siles" email="danielsiles9@hotmail.com" date="1603274484000" />
     </list>
@@ -64,8 +67,16 @@
       <updated>1603282520661</updated>
       <workItem from="1603282522077" duration="2276000" />
       <workItem from="1603288125078" duration="82000" />
-      <workItem from="1603288208138" duration="424000" />
+      <workItem from="1603288208138" duration="1134000" />
     </task>
+    <task id="LOCAL-00001" summary="Add .gitignore and README.md">
+      <created>1603288813753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603288813753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +106,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add .gitignore and README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore and README.md" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="186" y="23" width="1240" height="625" key="DiffContextDialog" timestamp="1603288114390">
       <screen x="0" y="23" width="1440" height="825" />
@@ -116,10 +131,10 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="571" y="356" key="VCS.ChangelistChooser/0.23.1440.825@0.23.1440.825" timestamp="1603282941739" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1603283121273">
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1603288819815">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1603283121273" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1603288819815" />
     <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603283017646">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
