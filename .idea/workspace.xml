@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b036811a-bc76-4e3d-9e6b-6ec9c5394801" name="Default Changelist" comment="" />
+    <list id="957e68ea-c2f2-4d0b-b8c1-50a4c59abcc6" name="add word to file" comment="add word to file&#10;&#10;(cherry picked from commit 93a24f068029a40b6b1046f1a24ea2aaaecfd30e)">
+      <changelist_data name="Daniel Siles" email="danielsiles9@hotmail.com" date="1603274484000" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4fdc0d7dc779bee27c0411b0f50ad67fca32a4f4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8488a8c9-6890-4e5b-8fa7-c9ee33c28183" />
+  <component name="ProjectId" id="1jBfh3CLwxc354emwbb5WNIDVOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b036811a-bc76-4e3d-9e6b-6ec9c5394801" name="Default Changelist" comment="" />
+      <created>1603282520661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603282520661</updated>
+      <workItem from="1603282522077" duration="2276000" />
+      <workItem from="1603288125078" duration="82000" />
+      <workItem from="1603288208138" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="23" width="1240" height="625" key="DiffContextDialog" timestamp="1603288114390">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="186" y="23" width="1240" height="625" key="DiffContextDialog/0.23.1440.825@0.23.1440.825" timestamp="1603288114390" />
+    <state x="144" y="95" key="MergeDialog" timestamp="1603287048784">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="144" y="95" key="MergeDialog/0.23.1440.825@0.23.1440.825" timestamp="1603287048784" />
+    <state x="358" y="204" key="MultipleFileMergeDialog" timestamp="1603287460348">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="358" y="204" key="MultipleFileMergeDialog/0.23.1440.825@0.23.1440.825" timestamp="1603287460348" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1603288385995">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1603288385995" />
+    <state x="571" y="356" key="VCS.ChangelistChooser" timestamp="1603282941739">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="571" y="356" key="VCS.ChangelistChooser/0.23.1440.825@0.23.1440.825" timestamp="1603282941739" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1603283121273">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1603283121273" />
+    <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603283017646">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.825@0.23.1440.825" timestamp="1603283017646" />
+    <state x="450" y="155" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603287038182">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="450" y="155" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.825@0.23.1440.825" timestamp="1603287038182" />
+    <state x="385" y="172" key="search.everywhere.popup" timestamp="1603287052976">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="172" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1603287052976" />
+  </component>
+</project>
